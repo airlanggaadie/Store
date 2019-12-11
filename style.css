@@ -1,0 +1,9 @@
+footer img{
+    height: 60px;
+    width: 60px;
+}
+.logo {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    opacity: .3;
+}
